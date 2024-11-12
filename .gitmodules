@@ -1,3 +1,6 @@
 [submodule "IE643/project/IE643/project/MovieCharCount"]
 	path = IE643/project/IE643/project/MovieCharCount
 	url = https://github.com/HanishDhanwalkar/MovieCharCount.git
+[submodule "IE643/Human-Tracking"]
+	path = IE643/Human-Tracking
+	url = https://github.com/HanishDhanwalkar/Human-Tracking.git
